@@ -1,0 +1,6 @@
+discord.py==2.3.2
+beautifulsoup4
+requests
+discord
+discord.ext
+sqlite3
